@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637920000369",
+    "project_id": "thirdloginapplication",
+    "storage_bucket": "thirdloginapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637920000369:android:8f3b216983953298959ed0",
+        "android_client_info": {
+          "package_name": "my.android.thirdloginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-tAA9n3L6GX-1j-Sl47NVM8QaNvCN0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
